@@ -25,3 +25,8 @@ Practice essential keyboard shortcuts to work more efficiently in Excel.
 - Build a simple dashboard using the sales dataset.
 - Use macros to help separate data by multiple years.
 - Incorporate pivot tables and charts to visually represent the data on the dashboard.
+
+## Task 5: Data-Driven Storytelling
+- Developed a PowerPoint presentation to clearly convey key insights and actionable recommendations. Here are the main suggestions:
+- Redirect resources to online retailer accounts: Investing freed-up sales and marketing resources into online retailers is likely to drive the most growth in sales.
+- Optimize account focus: Close underperforming accounts and focus efforts on identifying and investing in high-potential online retailer accounts to maximize returns from sales and marketing.
